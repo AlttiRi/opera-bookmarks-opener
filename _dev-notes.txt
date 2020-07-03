@@ -1,7 +1,13 @@
-Created: ‎2019.04.22 (After Opera 60 update)
+Created: 2019.04.22 (After Opera 60 update)
 
 
-todo: open in bookmarks tab (if it is already opened), not to create a new tab
+[todo]
+https://github.com/AlttiRi/opera-bookmarks-opener/issues/1
+Add an options page with options:
+- open in current tab if opened chrome://startpage/
+- disable downloads pop up with setShelfEnabled
+
+
 chrome.tabs.update(tab.id, {url: "opera://startpage/bookmarks"});
 
 
