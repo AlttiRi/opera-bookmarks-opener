@@ -1,0 +1,23 @@
+{
+  "name": "opera-bookmarks-opener",
+  "version": "0.0.1",
+  "description": "Opens Bookmarks Page",
+  "keywords": [
+    "extension",
+    "opera",
+    "bookmarks"
+  ],
+  "author": "AlttiRi",
+  "license": "MIT",
+  "homepage": "https://github.com/AlttiRi/opera-bookmarks-opener#readme",
+  "bugs": {
+    "url": "https://github.com/AlttiRi/opera-bookmarks-opener/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlttiRi/opera-bookmarks-opener.git"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.117"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Bookmarks opener",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Opens Opera's Bookmarks Page",
   "browser_action": {
     "default_title": "Open Bookmarks"
