@@ -1,0 +1,11 @@
+Created: ‎2019.04.22 (After Opera 60 update)
+
+
+todo: open in bookmarks tab (if it is already opened), not to create a new tab
+chrome.tabs.update(tab.id, {url: "opera://startpage/bookmarks"});
+
+
+Permissions for tests:
+"permissions": ["<all_urls>", "activeTab", "*://*/*" , "downloads", "downloads.shelf"],
+
+
